@@ -3,3 +3,4 @@ login.rieste-machinery.com
 poggsx.rieste-machinery.com
 dywypx.rieste-machinery.com
 *.rootevidence.com
+rootevidence.com
